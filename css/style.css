@@ -71,10 +71,54 @@ header{
 }
 
         /* Main Box container */
+
 .main-box-container{
     width: 800px;
     margin: 0px auto;
     background-color:white;
     padding:20px 45px;
+    color: black; 
+
+}
+
+        /* Utils */
+
+.summary-content-linestyle{
+    line-height: 40px;
+}        
+
+.summary-title{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5px;
+
+}
+
+.checkmark{
+    width: 25px;
+    height: 25px;
+    color: rgb(82, 195, 82);
+    border: 2px solid rgb(82, 195, 82);
+    border-radius:50%;
+    text-align: center;
+    padding: 2px;
+
+}
+
+.text-style{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+
+}
+
+.editorial-box{
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    background-color: aqua;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 18px;
+    line-height: 40px;
+
 
 }
