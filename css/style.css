@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/* Body */
+
+body{
+    background-color:lightgray
+}
+
+
+/* Header */
+
+header{
+    background-color:white;
+    
+}
+
+.header-container{
+    width: 1200px;
+    margin: 0 auto;
+    height: 100px; 
+}
+
+#logo{
+    height: 80px;
+    width: 80px;
+    line-height: 100px;
+    vertical-align:middle
+}
+
+.title{
+    display: inline;
+    font-size: 50px;
+    line-height: 100px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
