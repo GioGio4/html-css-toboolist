@@ -38,3 +38,43 @@ header{
     margin-left: 10px;
     vertical-align: middle;
 }
+
+/* Main */
+
+        /* Main Button Box */
+.button-box{
+    width: 800px;
+    margin: 100px auto 3px auto;
+    background-color:white;
+    padding:20px 45px;
+}
+
+.button-task{
+    width: 80px;
+    height: 28px;
+    color:white;
+    background-color: rgb(108, 172, 241);
+    border-color: rgb(108, 172, 241) ;
+    border-radius: 8%;
+
+}
+
+.button-section{
+    width: 80px;
+    height: 28px;
+    color: lightgrey;
+    background-color:white;
+    border-color: lightgray ;
+    border-radius: 8%;
+
+
+}
+
+        /* Main Box container */
+.main-box-container{
+    width: 800px;
+    margin: 0px auto;
+    background-color:white;
+    padding:20px 45px;
+
+}
