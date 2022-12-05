@@ -110,15 +110,50 @@ header{
 
 }
 
-.editorial-box{
+.editorial-label{
     display: inline-block;
     width: 80px;
-    height: 28px;
-    background-color: aqua;
+    height: 25px;
+    background-color:#45abea;
     text-align: center;
-    vertical-align: middle;
     border-radius: 18px;
-    line-height: 40px;
+    line-height: 25px;
+    color: white;
+    font-size: 12px;
+}
 
+.goals-label{
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    background-color:#9b71e3;
+    text-align: center;
+    border-radius: 18px;
+    line-height: 25px;
+    color: white;
+    font-size: 12px;
+}
 
+.recruiting-label{
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    background-color:#64c0a9;
+    text-align: center;
+    border-radius: 18px;
+    line-height: 25px;
+    color: white;
+    font-size: 12px;
+}
+
+.mobile-label{
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    background-color:#f29e33;
+    text-align: center;
+    border-radius: 18px;
+    line-height: 25px;
+    color: white;
+    font-size: 12px;
 }
